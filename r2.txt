@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hancy is the worst girl in the whole world.
+=======
+Hancy is the most beautiful girl in BEC.
+>>>>>>> a4264f1 (adding r2.txt to fb)
